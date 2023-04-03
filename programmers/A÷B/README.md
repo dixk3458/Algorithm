@@ -1,5 +1,7 @@
 # A÷B
 
+![image](https://user-images.githubusercontent.com/104772259/229463587-17e2a61a-20eb-4f6b-88f5-6a0364ecefef.png)
+
 #### 자바스크립트 풀이 방법:
 
 ```
