@@ -17,6 +17,5 @@ function solution(num1, num2) {
 let num1 = 50;
 let num2 = 30;
 
-
 solution(num1,num2)
 ```
