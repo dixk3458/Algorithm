@@ -6,7 +6,7 @@
 그러한 활용법을 배워야할것같다.
 
 ### 자바스크립트 문제풀이
-
+````
 function solution(price) {
     let answer = 0;
     if(100000<=price && price<300000){
@@ -25,3 +25,4 @@ function solution(price) {
 let price = 150000;
 
 solution(price)
+````
